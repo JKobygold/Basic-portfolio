@@ -31,3 +31,17 @@ color: black;
     padding-left:20px;
     Margin: 40px;
 }
+
+.my-form{
+    padding:20px;
+    padding-bottom:30px;
+}
+
+.my-form label{
+display:block;
+}
+
+.my-form input[type="text"]{
+    padding:8px;
+    width: 80%;
+}
