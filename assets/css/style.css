@@ -1,20 +1,33 @@
 
+
+
+*{
+    Margin:0;
+    padding:0;
+    
+
+}
 Body{
 
-background-color: whitesmoke;
+background-color: grey;
 color: black;
  margin:0;
+ font-family: 'Courier New', Courier, monospace;
+
  }
 
- h1{ background-color:rgba(0, 0, 0, 0) ;
+ h1{ background-color:turquoise ;
+     color: white;
  }
  
 .container{
     width: 960px;
+    margin: autor;
 }
 
- .box-1{
-     background-color: grey;
-     color: white;
-     
- }
+.box-1{
+    background-color:white ;
+    border-bottom:5px turquoise solid;
+    padding-left:20px;
+    Margin: 40px;
+}
